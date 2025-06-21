@@ -155,6 +155,22 @@ Set `Final_Value` to `11'd649` in your design to match this configuration.
 
 ![UART Block Diagram](Pictures/Construction.png)
 
+---
+
+## Waveform
+
+![waveform](Pictures/top_waveform.PNG)
+
+- tx
+
+![tx_waveform](Pictures/tx_waveform.PNG)
+
+- rx
+
+![rx_waveform](Pictures/rx_waveform.PNG)
+
+---
+
 ## 📚 References
 
 - **UART Lecture Series by Dr. Anas**  
