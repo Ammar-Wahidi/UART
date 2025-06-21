@@ -149,9 +149,16 @@ Set `Final_Value` to `11'd649` in your design to match this configuration.
 - Both transmitter and receiver must use the same `Final_Value`
 - If using a different system clock, recalculate accordingly
 
+---
 
+## 📊 Block Diagram
 
+![UART Block Diagram](Pictures/Construction.png)
 
+## 📚 References
 
+- **UART Lecture Series by Dr. Anas**  
+  YouTube Playlist: [ECE 3300 - Digital Circuits Design Using Verilog – Dr. Anas](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr)  
+  This project was inspired by and partially follows the concepts taught in the UART section of this lecture series. Highly recommended for learning Digital Design fundamentals, FSM design, and Verilog implementation techniques.
 
 
