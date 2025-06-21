@@ -32,7 +32,7 @@ module UART_tb;
     wire rx_empty,tx_full;
     wire [7:0]   r_data;
     
-    // Clock Generation: 50MHz
+    // Clock Generation: 100MHz
     always #5 clk = ~clk;
 
     // Instantiate the DUT
